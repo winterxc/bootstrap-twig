@@ -24,6 +24,8 @@
     ]
   },
   "require": {
-    "giggsey/libphonenumber-for-php": "^8.9"
+    "giggsey/libphonenumber-for-php": "^8.9",
+    "typerocket/typerocket": "^v3.0.9",
+    "timber/timber": "^1.9.4"
   }
 }
